@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbuz&label=Profile%20views&color=0e75b6&style=flat" alt="codingbuz" /> </p>
 
-- 🌱 I’m currently learning **JAVA,DSA,SQL,DBMS**
+- 🌱 I’m currently learning **C#, Asp .net Core,Javascript,jquery,HTML,JAVA,DSA,SQL Server,DBMS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/codingbuz/Upendra-Kumar.git](https://github.com/codingbuz/Upendra-Kumar.git)
 
